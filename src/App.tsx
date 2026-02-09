@@ -1,10 +1,9 @@
-import HelloWorld from '@/components/HelloWorld'
-import './styles/App.css'
 function App() {
   return (
     <>
-      <h1>APP Page</h1>
-      <HelloWorld name="Hi" />
+      <h1 className="text-3xl font-bold underline text-blue-800">
+        Hello world!
+      </h1>
     </>
   )
 }
