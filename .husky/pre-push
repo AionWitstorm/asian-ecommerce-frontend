@@ -1,0 +1,3 @@
+#!/bin/sh
+$HOME/.volta/bin/pnpm lint
+$HOME/.volta/bin/pnpm build
